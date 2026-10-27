@@ -1,6 +1,6 @@
 # FALLING HEART
 
-![Particleheart](assets/Particleheart.png
+![Particle Heart](assets/Particleheart.png)
 
 Blue glowing particles fall from the top of a dark screen and slowly form a beating heart in the center. Fully responsive.
 
